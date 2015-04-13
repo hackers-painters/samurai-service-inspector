@@ -1,7 +1,7 @@
 In-app view hierarchy inspector
 ===============================
 
-![gif](https://raw.githubusercontent.com/hackers-painters/samurai-service-inspector/master/ServiceSnspector.gif)
+![gif](https://raw.githubusercontent.com/hackers-painters/samurai-service-inspector/master/ServiceInspector.gif)
 
 ## How to use
 
